@@ -1,4 +1,4 @@
-# Customisable-Gesture-Recognition-System-using-Siamese-Neural-Networks-and-Haar-Cascade-Algorithm
+# Customizable-Gesture-Recognition-System-using-Siamese-Neural-Networks-and-Haar-Cascade-Algorithm
 
 There has been a lot of work in the field of gesture
 recognition in the last few decades but all of them compel
