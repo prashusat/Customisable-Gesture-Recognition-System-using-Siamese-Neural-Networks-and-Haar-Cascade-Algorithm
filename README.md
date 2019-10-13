@@ -25,6 +25,13 @@ Gesturefinal.ipynb contains all the code necessary to test the system.
 
 3 empty files need to be created in the same directory as the ipynb file.These files are used to store the gestures which have been taught to the sytem by the user the first time he uses it.
 
+Haar Cascade algorithm has been used for detection and tracking of hand.Than training file for the is contained in hand4.xml.
+
+A lot of help was also taken from Sorenboumas blog and github repository for one shot learning.The link is posted below.
+
+https://github.com/sorenbouma/keras-oneshot
+
+
 <b>The system has been built to perform 3 applications but the applications can be modified:</b>
 <br/><br/>
 
