@@ -13,8 +13,21 @@ gesture recognition which will be useful for them. When the
 user operates the system for the first time, he has to record 3
 gestures for controlling 3 different applications.
 
-Our papers link can be found here:
+Our paper's link can be found here:
 
 https://ieeexplore.ieee.org/document/8834600/authors#authors
 
 We are making the code open source so that further contributions can be made to it.
+
+Instructions to run the code:
+
+Gesturefinal.ipynb contains all the code necessary to test the system.
+
+3 empty files need to be created in the same directory as the ipynb file.These files are used to store the gestures which have been taught to the sytem by the user the first time he uses it.
+
+<b>The system has been built to perform 3 applications but the applications can be modified:</b>
+<br/><br/>
+
+1)Calling a phone number.
+2)Messaging a phone number.
+3)Switching on and off a light using Arduino.
