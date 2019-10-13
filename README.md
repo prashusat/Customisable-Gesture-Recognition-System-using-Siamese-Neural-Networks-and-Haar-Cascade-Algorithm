@@ -28,6 +28,6 @@ Gesturefinal.ipynb contains all the code necessary to test the system.
 <b>The system has been built to perform 3 applications but the applications can be modified:</b>
 <br/><br/>
 
-1)Calling a phone number.
-2)Messaging a phone number.
+1)Calling a phone number.<br/>
+2)Messaging a phone number.<br/>
 3)Switching on and off a light using Arduino.
